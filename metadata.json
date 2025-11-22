@@ -1,0 +1,5 @@
+{
+  "name": "University Lost & Found",
+  "description": "A web application to report lost and found items within a university campus. It features an intelligent matching system to connect finders with owners.",
+  "requestFramePermissions": []
+}
